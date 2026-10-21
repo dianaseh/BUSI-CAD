@@ -15,7 +15,7 @@ The project brings together a custom **U-Net** segmentation model and an **Image
 
 Segmentation and classification address different aspects of ultrasound image analysis. Segmentation examines *where* a lesion appears, while classification estimates *which category* an image belongs to.
 
-This project explores both tasks through separate modeling workflows. Its focus is on implementing and examining the full experimental process—from preparing image–mask pairs to evaluating learned predictions—within a compact medical imaging dataset.
+This project explores both tasks through separate modeling workflows. Its focus is on implementing and examining the full experimental process-from preparing image–mask pairs to evaluating learned predictions-within a compact medical imaging dataset.
 
 ## Technical contributions
 
