@@ -8,6 +8,7 @@ The project brings together a custom **U-Net** segmentation model and an **Image
 **Highlights:** 84.10% peak classification validation accuracy on 195 images, with a macro F1 score of 0.8296 at the same epoch.
 
 [Explore the notebook](notebooks/BUSI_CAD.ipynb)
+[Read the technical report](reports/BUSI_CAD_Report.pdf)]
 
 ## Motivation
 
